@@ -3,7 +3,4 @@ class Person
 
   end
 
-
-
-
 end
